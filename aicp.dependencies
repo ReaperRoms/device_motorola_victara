@@ -8,11 +8,6 @@
    "repository":  "AICP/proprietary_vendor_motorola",
    "target_path": "vendor/motorola",
    "branch":      "mm6.0"
-  },
-  {
-   "repository":  "CyanogenMod/android_external_connectivity",
-   "target_path": "external/connectivity",
-   "branch":      "cm-13.0"
   }
 ]
 
