@@ -75,7 +75,7 @@ ro.usb.bpteth=0x2e2a
 ro.usb.bpteth_adb=0x2e2b
 
 # Screen density
-ro.sf.lcd_density=480
+ro.sf.lcd_density=400
 
 # Motorola's init sets this, let's just do it ourselves
 ro.hw.device=victara
