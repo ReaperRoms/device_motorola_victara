@@ -10,5 +10,11 @@
     "repository":  "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch":      "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "BrokenROM/packages_apps_SnapdragonCamera",
+    "target_path": "packages/apps/SnapdragonCamera",
+    "branch":      "m6.0.1"
   }
 ]
