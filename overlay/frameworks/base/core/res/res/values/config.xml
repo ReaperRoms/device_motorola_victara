@@ -140,7 +140,7 @@
     </integer-array>
 
     <!-- If this is true, key chords can be used to take a screen record on the device. -->
-    <bool name="config_enableScreenrecordChord">false</bool>
+    <bool name="config_enableScreenrecordChord">true</bool>
     
     <!-- Our amoled doesn't animate well. -->
     <bool name="config_animateScreenLights">false</bool>
