@@ -1,9 +1,9 @@
 [
   {
     "remote":      "github",
-    "repository":  "CyanogenMod/android_kernel_motorola_msm8974",
+    "repository":  "oraixearl/nightmare_kernel",
     "target_path": "kernel/motorola/msm8974",
-    "branch":      "cm-13.0"
+    "branch":      "mm6.0.1"
   },
   {
     "remote":      "github",
