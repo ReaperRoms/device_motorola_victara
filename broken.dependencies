@@ -3,7 +3,7 @@
     "remote":      "github",
     "repository":  "oraixearl/nightmare_kernel",
     "target_path": "kernel/motorola/msm8974",
-    "branch":      "mm6.0.1"
+    "branch":      "m6.0.1"
   },
   {
     "remote":      "github",
