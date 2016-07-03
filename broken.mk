@@ -20,4 +20,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 # Broken Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-	DEVICE_MAINTAINERS="Armando Christian & Jesse Smith"
+	DEVICE_MAINTAINERS="Jesse Smith (oraixearl)"
