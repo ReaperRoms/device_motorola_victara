@@ -139,6 +139,9 @@ BOARD_PROVIDES_RILD := true
 include device/qcom/sepolicy/sepolicy.mk
 BOARD_SEPOLICY_DIRS += device/motorola/victara/sepolicy
 
+#SuperSU
+NEEDS_SYSTEMMODE_SU := true
+
 # Vendor Init
 TARGET_UNIFIED_DEVICE := true
 TARGET_INIT_VENDOR_LIB := libinit_victara
