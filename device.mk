@@ -115,7 +115,7 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8974 \
-    SnapdragonCamera
+ #   SnapdragonCamera
 
 # Charger
 PRODUCT_PACKAGES += \
