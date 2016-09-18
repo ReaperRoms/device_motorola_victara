@@ -2,3 +2,6 @@ allow rmt_storage ssd_device:blk_file rw_file_perms;
 allow rmt_storage hob_block_device:blk_file rw_file_perms;
 allow rmt_storage fsg_file:file r_file_perms;
 allow rmt_storage fsg_file:dir r_dir_perms;
+# Allow rmt_storage to backup/restore NV contents
+allow rmt_storage nvbackup_block_device:blk_file rw_file_perms;
+allow rmt_storage ssd_device:blk_file rw_file_perms;
