@@ -60,6 +60,9 @@ persist.radio.relay_oprt_change=1
 persist.radio.msgtunnel.start=false
 persist.radio.oem_ind_to_both=false
 
+# Bluetooth
+qcom.bluetooth.soc=smd
+
 # Enable UIM VCC feature
 persist.qcril_uim_vcc_feature=1
 
