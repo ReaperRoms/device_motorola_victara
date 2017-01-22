@@ -96,6 +96,9 @@ camera2.portability.force_api=1
 media.stagefright.legacyencoder=true
 media.stagefright.less-secure=true
 
+# Google Assistant
+ro.opa.eligible_device=true
+
 # Play store
 ro.com.google.clientidbase.gmm=android-motorola
 
