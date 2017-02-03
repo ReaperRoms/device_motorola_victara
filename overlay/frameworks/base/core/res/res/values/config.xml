@@ -43,6 +43,18 @@
         <item>"bt-pan"</item>
     </string-array>
 
+	<!-- Lights -->
+
+    <!-- Does the notification LED support multiple colors -->
+    <bool name="config_multiColorNotificationLed">false</bool>
+	
+    <!-- Do the battery/notification LEDs support pulsing?
+         Used to decide if we show pulse settings -->
+    <bool name="config_ledCanPulse">false</bool>
+
+    <!-- Does the battery LED support multiple colors? -->
+    <bool name="config_multiColorBatteryLed">false</bool>
+
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>
 
@@ -355,10 +367,6 @@
 
     <!-- Flag indicating if the speed up audio on mt call code should be executed -->
     <bool name="config_speed_up_audio_on_mt_calls">false</bool>
-
-    <!-- Do the battery/notification LEDs support pulsing?
-         Used to decide if we show pulse settings 
-    <bool name="config_ledCanPulse">false</bool> -->
 
     <!-- enable doze powersaving mode -->
     <bool name="config_enableAutoPowerModes">true</bool>
