@@ -118,11 +118,6 @@ PRODUCT_PACKAGES += \
     camera.msm8974 \
  #   SnapdragonCamera
 
-# Charger
-PRODUCT_PACKAGES += \
-    charger \
-    charger_res_images
-
 # CRDA
 PRODUCT_PACKAGES += \
     crda \
