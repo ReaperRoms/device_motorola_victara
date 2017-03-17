@@ -1,7 +1,7 @@
 [
   {
-    "remote":      "github",
-    "repository":  "oraixearl/nightmare",
+    "remote":      "gitlab",
+    "repository":  "oraixearl/nightmare_kernel",
     "target_path": "kernel/motorola/msm8974",
     "branch":      "7.1.1"
   },
@@ -9,6 +9,12 @@
     "remote":      "github",
     "repository":  "oraixearl/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
+    "branch":      "7.1.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "oraixearl/SnapdragonCamera",
+    "target_path": "packages/apps/SnapdragonCamera",
     "branch":      "7.1.1"
   }
 ]

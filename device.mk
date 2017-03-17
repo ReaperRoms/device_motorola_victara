@@ -116,7 +116,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
 	libshim_camera \
     camera.msm8974 \
- #   SnapdragonCamera
+    SnapdragonCamera
 
 # CRDA
 PRODUCT_PACKAGES += \
